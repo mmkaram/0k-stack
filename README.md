@@ -1,7 +1,9 @@
 # The 0k Stack
 - Svelte (ts)
 - Drizzle
+- Postgres
 - Better-auth
+- Cloudflare workers (wrangler.json)
 
 ## Extras
 - Custom loading state:
