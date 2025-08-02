@@ -3,6 +3,7 @@
 - Drizzle
 - Postgres
 - Better-auth
+- Tanstack/svelte query
 - Cloudflare workers (wrangler.json)
 
 ## Extras
