@@ -5,6 +5,7 @@
 - Better-auth
 - Tanstack/svelte query
 - Cloudflare workers (wrangler.json)
+- Posthog
 
 ## Extras
 - Custom loading state:
